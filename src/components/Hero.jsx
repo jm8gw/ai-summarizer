@@ -27,7 +27,7 @@ const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
         <nav className="flex justify-between items-center w-full mb-10 pt-3">
-            <img src='src\assets\nradlogofullrmbg.png' alt="sumz_logo"
+            <img src='/nradlogofullrmbg.png' alt="sumz_logo"
             className="w-40 object-contain" />
             <div className="space-x-4">
                 {isMobileScreen ? (
