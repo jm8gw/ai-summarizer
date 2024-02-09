@@ -59,7 +59,7 @@ const Hero = () => {
             <span className="blue_gradient"> OpenAI GPT-4</span>
         </h1>
         <h2 className="desc">
-            Paste the link to a fully fledged article below, and allow the wonders of AI to condense it into a quick and easy-to-read summary! <br/> Nobody has to know you never actually read it {':)'}
+            Paste the link to a fully-fledged article below, and allow the wonders of AI to condense it into a quick and easy-to-read summary! <br/> Nobody has to know you never actually read it {':)'}
         </h2>
     </header>
   )
