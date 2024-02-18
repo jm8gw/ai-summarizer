@@ -1,8 +1,7 @@
-# React + Vite
+# Not Readn All Dat (nRAD): The Ultimate AI Artcle Summarizer For Lazy Readers
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web app that utilizes AI to summarize a lengthy online article into an easy 3 paragraph summary. 
 
-Currently, two official plugins are available:
+Built with React + Vite, with the use of RapidAPI's Aricle Extractor and Summarizer, tailwindCSS, FontAwesome, and Canvas for the logo.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![nradlogofullrmbg](https://github.com/jm8gw/ai-summarizer/assets/82823709/9ba4b541-b5cb-4a72-a972-ce78ec6dbcfb)
